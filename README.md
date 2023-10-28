@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--  ![logo](https://github.com/sumanprasad007/sumanprasad007/blob/main/GitHub%20Banner%2011th%20April.png)
+<!--  ![logo](https://github.com/poonam-patel/poonam-patel/blob/main/GitHub%20Banner%2011th%20April.png)
 -->
 ![image](https://github.com/poonam-patel2/poonam-patel2/assets/55047333/945dc45a-273a-42ad-8364-2393bdb0b6f1)
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0FF700&center=true&vCenter=true&width=1200&height=60&lines=Hi+%F0%9F%91%8B%2C+Explore+world+of+Cloud+%26+DevOps+;With+poonam+patel%2C+Let's+connect!+" alt="Typing SVG" /></a></h1>
@@ -23,17 +23,17 @@ Here are some ideas to get you started:
 
 <p align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&row=1"/></p>
 
-//<p align="center"> <a href="https://twitter.com/sumanprasad007" target="blank"><img src="https://img.shields.io/twitter/follow/sumanprasad007?logo=twitter&style=for-the-badge" alt="sumanprasad007" /></a> </p>
+//<p align="center"> <a href="https://twitter.com/poonam-patel" target="blank"><img src="https://img.shields.io/twitter/follow/poonam-patel?logo=twitter&style=for-the-badge" alt="poonam-patel" /></a> </p>
 
 <h1></h1>
 
-- 🔭 I’m currently working as [Cloud DevOps Engineer & building CI/CD Pipelines](https://github.com/sumanprasad007/Streamlining-Website-Deployment-through-AWS-CI-CD-Pipeline.git)
+- 🔭 I’m currently working as [Cloud DevOps Engineer & building CI/CD Pipelines](https://github.com/poonam-patel/Streamlining-Website-Deployment-through-AWS-CI-CD-Pipeline.git)
   
-- **TWS Community Builder 🔄** [Checkout the Page on LinkedIn](https://www.linkedin.com/company/trainwithshubham/)
+- **TWS Community Builder 🔄** [Checkout the Page on LinkedIn](https://www.linkedin.com/company/poonam-patel/)
 
-- **Completed 90DaysOfDevops Challenge 🚀** [Checkout my #90days Journey😊](https://www.linkedin.com/posts/prasad-suman-mohan_90days-challenge-my-journey-of-growth-activity-7052857767644004353-9n5z?utm_source=share&utm_medium=member_desktop)
+- **Completed 90DaysOfDevops Challenge 🚀** [Checkout my #90days Journey😊](https://www.linkedin.com/posts/poonam-patel_90days-challenge-my-journey-of-growth-activity-7052857767644004353-9n5z?utm_source=share&utm_medium=member_desktop)
 
-- **My YouTube Channel 🎥** [👉 Click here](https://www.youtube.com/@sumanprasad007)
+- **My YouTube Channel 🎥** [👉 Click here](https://www.youtube.com/poonam-patel)
 
 - 🌱 I’m currently learning **AWS CI/CD Pipeline which comprises of CodeCommit, CodeBuild, CodeDeploy, CodePipeline, S3, EC2, Cloudwatch, IAM**
 
