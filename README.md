@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&row=1"/></p>
 
-//<p align="center"> <a href="https://twitter.com/poonam-patel" target="blank"><img src="https://img.shields.io/twitter/follow/poonam-patel?logo=twitter&style=for-the-badge" alt="poonam-patel" /></a> </p>
+<p align="center"> <a href="https://twitter.com/poonam-patel" target="blank"><img src="https://img.shields.io/twitter/follow/poonam-patel?logo=twitter&style=for-the-badge" alt="poonam-patel" /></a> </p>
 
 <h1></h1>
 
